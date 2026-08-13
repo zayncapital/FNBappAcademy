@@ -74,6 +74,9 @@ I'm using this repository to practice programming fundamentals, build projects, 
 - User input
 - CRUD operations (Create, Read, Delete)
 
+#### Challenges Completed
+- ✅ Arcade Score Tracker
+
 ---
 
 ## 🛠 Technologies
